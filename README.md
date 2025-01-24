@@ -74,7 +74,7 @@ This project is licensed under the **MIT License**.
 1. Clone the repository:  
    ```bash
    git clone https://github.com/your-username/your-repository.git
-2. Install required dependencies.
+2. Install required libraries.
 3. Configure PostgreSQL database connection in the configuration file.
 4. Run the Jupyter Notebooks in sequence for data acquisition, storage, preparation, and analysis.
 
