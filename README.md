@@ -23,7 +23,17 @@ This project is a comprehensive solution for managing, enriching, and analyzing 
 
 5. **📈 Exploratory Data Analysis (EDA)**  
    - 📉 Visualization of cybersecurity trends using **Matplotlib** and **Seaborn**.  
-   - 🌐 Identification of attack patterns, geographical distribution of attackers, and victim profiles.  
+   - 🌐 Identification of attack patterns, geographical distribution of attackers, and victim profiles.
+   - 📊 For more in-depth insights, I have also created two interactive dashboards on Tableau, which you can access via the following links:
+
+1. [Geospatial Map Dashboard](https://public.tableau.com/app/profile/ali.sarabandi/viz/GeospatialMapDashboard/Dashboard1)
+2. [Global Cyber Threat Dashboard](https://public.tableau.com/app/profile/ali.sarabandi/viz/GlobalCyberThreatDashboard/Dashboard2)
+
+On the top-left corner of each dashboard, you will find a hyperlink that leads to the documentation for the respective dashboard.
+<img width="1000" alt="Screenshot 2025-02-05 at 10 11 10" src="https://github.com/user-attachments/assets/773e7dfb-6edf-4cb7-8bf3-fda4f2a8b67d" />
+<img width="1000" alt="Screenshot 2025-02-05 at 10 10 38" src="https://github.com/user-attachments/assets/cbca6656-42de-469e-90da-4685a3b5c6f3" />
+
+
 
 ---
 
