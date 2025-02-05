@@ -1,4 +1,4 @@
-# 🔒 **Cybersecurity Data Management and Analysis**
+# 🔒 **Cybersecurity Data Management and Analysis (Tableau dashboards included)**
 
 This project is a comprehensive solution for managing, enriching, and analyzing cybersecurity data, designed to uncover trends, identify vulnerabilities, and provide actionable insights. By integrating diverse data sources, ensuring high data quality, and applying advanced analytics, this project empowers researchers, policymakers, and cybersecurity professionals to combat cyber threats effectively.
 
