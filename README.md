@@ -40,7 +40,7 @@ This project is a comprehensive solution for managing, enriching, and analyzing 
 - 🐍 **Programming Language**: Python  
 - 🛢️ **Database**: PostgreSQL with SQLAlchemy integration  
 - 📊 **Data Processing**: Pandas, NumPy  
-- 🎨 **Visualization Tools**: Matplotlib, Seaborn  
+- 🎨 **Visualization Tools**: Matplotlib, Seaborn, Tableau  
 - 💻 **Development Environment**: Jupyter Notebook  
 
 ---
