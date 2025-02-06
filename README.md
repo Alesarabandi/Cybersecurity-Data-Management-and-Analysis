@@ -64,6 +64,11 @@ The project addresses the critical need for robust data management and analysis 
 
 ---
 
+## 📄 Presentation  
+For a detailed overview of this project, check out the presentation pdf. It provides key insights, methodology, and findings in a concise format.
+
+---
+
 ## 🤝 Contributing  
 Contributions are welcome! 🎉  
 
