@@ -70,7 +70,7 @@ For a detailed overview of this project, check out the presentation pdf. It prov
 ---
 
 ## 🤝 Contributing  
-Contributions are welcome! 🎉  
+Contributions are welcome!🎉  
 
 - Fork the repository.  
 - Create a new branch for your feature (`git checkout -b feature-name`).  
